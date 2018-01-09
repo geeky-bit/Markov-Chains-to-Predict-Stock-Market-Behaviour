@@ -13,3 +13,6 @@ http://setosa.io/blog/2014/07/26/markov-chains/
 http://blog.revolutionanalytics.com/2016/01/getting-started-with-markov-chains.html
 
 Dataset used : Dow_Jones_Industrial_Average.csv
+
+**Note:: The codes are available freely. Feel free to add more codes. Spread the word!**
+
