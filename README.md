@@ -10,6 +10,6 @@ http://setosa.io/blog/2014/07/26/markov-chains/
 
 *and here -* 
 
-http://blog.revolutionanalytics.com/2016/01/getting-started-with-markov-chains.html)
+http://blog.revolutionanalytics.com/2016/01/getting-started-with-markov-chains.html
 
 Dataset used : Dow_Jones_Industrial_Average.csv
